@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo "you supplied $# arguments"
+echo $1
+echo $2
